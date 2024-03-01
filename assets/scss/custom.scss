@@ -1,0 +1,209 @@
+.article-style figure img {
+  margin-top: 0px;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+.article-container {
+    max-width: 80%;
+    padding: 0 20px;
+    margin: 0 auto; }
+h1                 {
+        font-size: 1.5em; /* 调整标题字体大小为 1.5 倍默认大111小 */
+            text-align: center;
+                   }
+.article-date{
+    display: none;
+}                                
+#top > div.page-body > article > div:nth-child(2) > div.media.author-card.content-widget-hr{
+    display: none;
+}
+// team
+.universal-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+  
+    justify-content: space-between;
+  }
+  
+  @media only screen and (min-width: 1001px){
+  .universal-wrapper {
+      width: 100%;
+    }  }
+
+  .card-simple {
+    width: calc(50% - 50px); /* 设置每个卡片的宽度为页面的三分之一，并考虑间距 */
+    margin-bottom: 20px; /* 设置卡片之间的底部间距 */
+  }
+  
+  .article-metadata {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .img-hover-zoom {
+    width: 100%; /* 图片宽度占满容器 */
+    height: 56%;
+  }
+  
+  .article-title {
+    width: 100%; /* 设置标题的宽度，使其不占满整个卡片 */
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; /* 当文字溢出时显示省略号 */
+  }
+  
+  a{
+    width: 100%;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+  }
+  .card-simple:first-of-type {
+    margin-top: 20px;
+}
+
+.article-banner {
+    max-width: 100%; /* 图片最大宽度为其容器的宽度 */
+    height: auto; /* 保持宽高比，防止图像变形 */
+  }
+  @media (min-width: 992px) {
+    .col-lg-4 {
+      flex: 0 0 33.33333333%;
+      max-width: 17.333333%;
+    }
+  }
+  @media (min-width: 992px) {
+    .col-lg-8 {
+      flex: 0 0 66.66666667%;
+      max-width: 66.66666667%;
+      height: 100%;
+    }
+  }
+  @media (min-width: 992px)
+{.col-lg-4 {
+    flex: 0 0 33.33333333%;
+    max-width: 20.333333%;
+}
+}
+  .d-flex {
+    display: flex !important;
+    flex-direction: column;
+}
+
+.project-toolbar .btn {
+    margin-right: 10px !important; /* 根据需要进行调整 */
+    margin-bottom: 10px !important; /* 根据需要进行调整 */
+    padding: 10px 20px !important; /* 根据需要进行调整 */
+}
+
+.row {
+  display: flex;
+}
+
+.col-12 {
+  width: 50%; /* 每个元素占据宽度的一半 */
+}
+
+/* 导入中文字体 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;700&display=swap');
+
+/* 应用字体到特定元素或类 */
+body {
+  font-family: 'Noto Sans SC', 'Ubuntu', sans-serif; /* 使用中文字体和英文字体 */
+}
+
+h1, h2, h3, p {
+  font-family: 'Noto Sans SC', 'Ubuntu', sans-serif; /* 使用中文字体和英文字体 */
+}
+
+
+// logo 样式
+.navbar-brand img {
+  width: 100%;
+  height: -moz-available;
+  height: -webkit-fill-available;
+  height: -webkit-stretch;
+  height: stretch;
+  max-height: 32px;
+  max-width: fit-content;
+  margin-left: 0%;
+}
+
+/* Hugo Blox color theme: GREEN */
+:root {
+  --color-primary-50: 240 253 244;
+  --color-primary-100: 220 252 231;
+  --color-primary-200: 187 247 208;
+  --color-primary-300: 134 239 172;
+  --color-primary-400: 74 222 128;
+  --color-primary-500: 34 197 94;
+  --color-primary-600: 22 163 74;
+  --color-primary-700: 21 128 61;
+  --color-primary-800: 22 101 52;
+  --color-primary-900: 20 83 45;
+  --color-primary-950: 5 46 22;
+}
+
+a {
+ 
+  text-decoration: none;
+  font-weight: bold;
+  display: inline;
+}
+a:hover {
+  text-decoration: none;
+  background-color: #e0e0e0;
+  color: darkgrey; /* 悬停时更改颜色 */
+}
+
+element.style {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 45px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.article-banner::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ a {
+  color: #0fa4c9e0;
+  text-decoration: none;
+  font-weight: 500;
+  display: inline;
+}
+
+.article-banner{                    
+  max-width: 100%;
+  max-height: auto; /* 设置最大高度 */
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  object-fit: contain; /* 按比例缩放图片并保持在容器内 */
+}
+
+.navbar-brand img {
+  width: 100%;
+  height: -moz-available;
+  height: -webkit-fill-available;
+  height: -webkit-stretch;
+  height: stretch;
+  max-height: 65px;
+  max-width: fit-content;
+  margin-left: -2%;
+}
+body {
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #2c3e50;
+  background-color: #ffffff;
+}
+
+.article-style figure img {
+ margin: auto;
+}
