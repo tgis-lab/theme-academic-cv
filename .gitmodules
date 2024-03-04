@@ -1,8 +1,8 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:tgis-lab/tgis-lab.github.io.git
-	branch = main
 [submodule "content/public"]
 	path = content/public
+	url = git@github.com:tgis-lab/tgis-lab.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
 	url = git@github.com:tgis-lab/tgis-lab.github.io.git
 	branch = main
