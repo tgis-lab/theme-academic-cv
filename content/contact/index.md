@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "Please contact us with your question, and we will reply as soon as possible."
+title: "Please contact us if you have any questions, and we will reply to them as soon as possible."
 date: 2023-01-01
 share: true
 ---

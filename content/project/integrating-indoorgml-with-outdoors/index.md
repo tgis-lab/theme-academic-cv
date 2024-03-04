@@ -1,5 +1,5 @@
 ---
-title: integrating-indoorgml-with-outdoors
+title: Integrating Indoorgml with Outdoors
 
 summary: Automatic routing graph generation for indoor‐outdoor transitional space for seamless navigation This project is funded by ISRPS https://www.isprs.org/society/si/default.aspx
 share: false
