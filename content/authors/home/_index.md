@@ -1,6 +1,6 @@
 
 
-![featured.png](/home_images/Logo_1.jpg)
+![featured.png](/home_images/logo1.jpg)
 
 The Transportation GIS lab is led by Dr. Zhiyong Wang (https://zhiyongwang.netlify.app/) and with the Department of Transportation at the [School of Civil Engineering and Transportation](http://www2.scut.edu.cn/jtxy_en/) in SCUT. The lab focuses on the use of geographic information systems (GIS) in transportation. We are interested in, but not limited to, the following topics:
 
