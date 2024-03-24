@@ -31,7 +31,15 @@ In this scientific initiative, we focus on modeling of indoor-outdoor transition
 
 **Research objective 2:** Development of a tool for automatic routing graph generation for indoor-outdoor transitional space. The intended tool will: 1) generate voxel models from point clouds of building entrances and their surrounding environments; (2) identify navigable space and perform space division; 3) build navigation graphs that link the outdoor and indoor enviroment. 
 
+
+
+**Result:**
+
+We have applied the developed python tool to the collected point cloud datasets and generated the voxel models as well as IndoorGML models. We have also tested the tool with some routing cases.
+
+![featured.png](/project_image/result1.png)
  
+
 
  **Collaborating Team**:
 
