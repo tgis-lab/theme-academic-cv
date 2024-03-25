@@ -42,9 +42,12 @@ We have applied the developed python tool to the collected point cloud datasets 
 
 
  **Main Output:**
- [1]A journal paper written based on the above results,https://isprs-annals.copernicus.org/articles/X-1-W1-2023/487/2023/
+ 
+ [1]A journal paper written based on the above results, https://isprs-annals.copernicus.org/articles/X-1-W1-2023/487/2023/
+ 
  [2]A data repository containing the datasets used in this project, https://doi.org/10.6084/m9.figshare.25323826
- [3]A GitHub repository containing the source codes of the python tool developed from this project,https://github.com/tgis-lab/geopcd2indoorgml
+ 
+ [3]A GitHub repository containing the source codes of the python tool developed from this project, https://github.com/tgis-lab/geopcd2indoorgml
  
  
  
