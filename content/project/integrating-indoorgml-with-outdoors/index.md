@@ -35,12 +35,19 @@ In this scientific initiative, we focus on modeling of indoor-outdoor transition
 
 **Result:**
 
-We have applied the developed python tool to the collected point cloud datasets and generated the voxel models as well as IndoorGML models. We have also tested the tool with some routing cases.
+We have applied the developed python tool to the collected point cloud datasets and generated the voxel models as well as IndoorGML models. We have also tested the tool with some routing cases.For a detailed elaboration of the result, please refer to the main output of this project.
 
 ![featured.png](/project_image/result1.png)
  
 
 
+ **Main Output:**
+ [1]A journal paper written based on the above results,https://isprs-annals.copernicus.org/articles/X-1-W1-2023/487/2023/
+ [2]A data repository containing the datasets used in this project, https://doi.org/10.6084/m9.figshare.25323826
+ [3]A GitHub repository containing the source codes of the python tool developed from this project,https://github.com/tgis-lab/geopcd2indoorgml
+ 
+ 
+ 
  **Collaborating Team**:
 
  
