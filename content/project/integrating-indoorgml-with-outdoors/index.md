@@ -43,11 +43,9 @@ We have applied the developed python tool to the collected point cloud datasets 
 
  **Main Output:**
  
- [1]A journal paper written based on the above results, https://isprs-annals.copernicus.org/articles/X-1-W1-2023/487/2023/
+ [1]A data repository containing the datasets used in this project, https://doi.org/10.6084/m9.figshare.25323826
  
- [2]A data repository containing the datasets used in this project, https://doi.org/10.6084/m9.figshare.25323826
- 
- [3]A GitHub repository containing the source codes of the python tool developed from this project, https://github.com/tgis-lab/geopcd2indoorgml
+ [2]A GitHub repository containing the source codes of the python tool developed from this project, https://github.com/tgis-lab/geopcd2indoorgml
  
  
  
@@ -72,6 +70,6 @@ Ki-Joune Li (OGC IndoorGML), Pusan National University, lik@pnu.edu
 
 **Related Publications:**
 
- Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., & Li, K. J. (2023). Automatic Generation of Routing Graphs for Indoor-Outdoor Transitional Space to Support Seamless Navigation. *ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, *10*, 487-492.
+ Wang, Z., Zlatanova, S., Mostafavi, M. A., Khoshelham, K., Díaz-Vilariño, L., & Li, K. J. (2023). [Automatic Generation of Routing Graphs for Indoor-Outdoor Transitional Space to Support Seamless Navigation](https://isprs-annals.copernicus.org/articles/X-1-W1-2023/487/2023/). *ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, *10*, 487-492.
 
  ![featured.png](/project_image/isprs.png)
