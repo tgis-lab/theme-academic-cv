@@ -4,13 +4,13 @@
 
 The Transportation GIS lab is led by Dr. Zhiyong Wang (https://zhiyongwang.netlify.app/) and with the Department of Transportation at the [School of Civil Engineering and Transportation](http://www2.scut.edu.cn/jtxy_en/) in SCUT. The lab focuses on the use of geographic information systems (GIS) in transportation. We are interested in, but not limited to, the following topics:
 
-**(1). Big spatial data analytic for modelling of environmental exposures** 
+**(1). Development of Digital Twins for modelling of environmental exposures** 
 
 This research focuses on the use of 2D and 3D big spatial data (such as land use data, residential building data, and green space data) to model physical environments (e.g., traffic noise) and to derive environment factors that can efficiently and accurately represent environmental exposure. 
 
 
 
- **(2). Relationships between urban environments, mobility and health**
+ **(2). Analysis of the relationships between urban environments, mobility, and health**
  
  The project aims to use novel regression models and advanced machine learning algorithms to study the relationships between built environments (e.g., streets, buildings, green and blue spaces), human mobility, and health.
 
@@ -22,7 +22,7 @@ This research focuses on the use of 2D and 3D big spatial data (such as land use
 
 交通地理信息系统实验室隶属于华南理工大学土木工程与交通学院的交通运输工程系。实验室主要研究地理信息系统（GIS）在交通工程及交通运输领域中的应用，主要研究方向包括：
 
-1. **基于空间大数据分析的城市环境暴露量模型构建**
+1. **基于数字孪生的城市环境暴露量建模**
 
 该研究侧重于利用2D和3D空间大数据（如土地利用数据、住宅建筑物数据和绿地数据）对城市物理环境进行空间建模，并构建一系列指标以高效、准确地描述城市中的环境暴露量（例如交通噪音）。
 
