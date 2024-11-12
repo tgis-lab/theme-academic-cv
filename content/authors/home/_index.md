@@ -4,7 +4,7 @@
 
 The Transportation GIS lab is led by Dr. Zhiyong Wang (https://zhiyongwang.netlify.app/) and with the Department of Transportation at the [School of Civil Engineering and Transportation](http://www2.scut.edu.cn/jtxy_en/) in SCUT. The lab focuses on the use of geographic information systems (GIS) in transportation. We are interested in, but not limited to, the following topics:
 
-**(1). Development of Digital Twins for modelling of environmental exposures** 
+**(1). Development of Digital Twins for modelling of built environments** 
 
 This research focuses on the use of 2D and 3D big spatial data (such as land use data, residential building data, and green space data) to model physical environments (e.g., traffic noise) and to derive environment factors that can efficiently and accurately represent environmental exposure. 
 
@@ -16,7 +16,7 @@ This research focuses on the use of 2D and 3D big spatial data (such as land use
 
 
 
- **(3). Digital Twins for location-based services and navigation**
+ **(3). Application of Digital Twins for location-based services and navigation**
 
  The goal of this project is to develop 3D city models coupled with various sensor data to support location-based services for different types of agents (e.g., wheelchairs, pedestrians, and vehicles).
 
