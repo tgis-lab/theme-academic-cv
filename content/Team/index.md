@@ -98,7 +98,7 @@ share: false
         </div>
     </div>
      <div class="teamMember">
-        <img src="/team_images/Lan Hu.jpg" alt="hulang" class="img-zoom">
+        <img src="/team_images/Lan Hu.png" alt="hulang" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
             <strong>Lang Hu</strong>
             <strong>Postgraduate</strong>
@@ -106,7 +106,7 @@ share: false
         </div>
     </div>
      <div class="teamMember"> 
-        <img src="/team_images/Zhendong Wu" alt="wuzhendong" class="img-zoom">
+        <img src="/team_images/Zhendong Wu.jpg" alt="wuzhendong" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
             <strong>Zhendong Wu</strong>
             <strong>Postgraduate</strong>
@@ -130,15 +130,7 @@ share: false
         </div>
     </div>
       <div class="teamMember">
-        <img src="/team_images/Chenzong Liu.jpg" alt="chenzongliu" class="img-zoom">
-        <div style="margin-top: 15px; text-align: left;">
-            <strong>Chenzhong Liu</strong>
-            <strong>Undergraduate</strong>
-            <strong>Research Interests:</strong> Intelligent transportation systems and urban data analysis
-        </div>
-    </div>
-      <div class="teamMember">
-        <img src="/team_images/Chenzong Liu.jpg" alt="chenzongliu" class="img-zoom">
+        <img src="/team_images/Chengzong Liu.jpg" alt="chenzongliu" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
             <strong>Chenzhong Liu</strong>
             <strong>Undergraduate</strong>
@@ -152,7 +144,6 @@ share: false
             <strong>Undergraduate</strong>
             <strong>Research Interests:</strong>  Path planning; Data visualization processing; Intelligent transportation research
         </div>
-    </div>
     </div>
      <div class="teamMember">
         <img src="/team_images/Yichen Wu.jpg" alt="wuyichen" class="img-zoom">
