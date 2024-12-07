@@ -74,6 +74,14 @@ share: false
         </div>
     </div>
      <div class="teamMember">
+        <img src="/team_images/Weidong Xie.jpg" alt="weidongxie" class="img-zoom">
+        <div style="margin-top: 15px; text-align: left;">
+            <strong>Weidong Xie</strong>
+            <strong>PhD candidate</strong>
+            <strong>Research Interests:</strong> Machine learning; Path planning; Navigation
+        </div>
+    </div>
+     <div class="teamMember">
         <img src="/team_images/linZhaoYu.jpg" alt="linZhaoYu" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
             <strong>Zhaoyu Lin</strong>
