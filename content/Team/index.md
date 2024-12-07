@@ -98,51 +98,68 @@ share: false
         </div>
     </div>
      <div class="teamMember">
-        <img src="/team_images/yangJinYan.jpg" alt="yangJinYan" class="img-zoom">
+        <img src="/team_images/Lan Hu.jpg" alt="hulang" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
-            <strong>Jinyan Yang</strong>
-            <strong>Undergraduate</strong>
-            <strong>Research Interests:</strong> shared e-bike and built environment
+            <strong>Lang Hu</strong>
+            <strong>Postgraduate</strong>
+            <strong>Research Interests:</strong> 3D spatio-temporal foundation；Path planning
         </div>
     </div>
      <div class="teamMember"> 
-        <img src="/team_images/kongSiKai.jpg" alt="kongSiKai" class="img-zoom">
+        <img src="/team_images/Zhendong Wu" alt="wuzhendong" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
-            <strong>Sikai Kong</strong>
-            <strong>Undergraduate</strong>
-            <strong>Research Interests:</strong> Traffic monitoring based on computer vision
+            <strong>Zhendong Wu</strong>
+            <strong>Postgraduate</strong>
+            <strong>Research Interests:</strong> UAV path planning; Convolutional Neural Network
         </div>
     </div>
      <div class="teamMember">
         <img src="/team_images/xiangZiWei.jpg" alt="xiangZiWei" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
             <strong>Ziwei Xiang</strong>
-            <strong>Undergraduate</strong>
+            <strong>Postgraduate</strong>
             <strong>Research Interests:</strong>  Analysis of the causes of traffic accidents; Path planning; IndoorGML
         </div>
     </div>
      <div class="teamMember">
-        <img src="/team_images/gongTaiLin.jpg" alt="gongTaiLin" class="img-zoom">
+        <img src="/team_images/Zhuojian Li.jpg" alt="lizhuojian" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
-            <strong>Tailin Gong</strong>
+            <strong>Zhuojian Li</strong>
             <strong>Undergraduate</strong>
-            <strong>Research Interests:</strong> Simultaneous Localization and Mapping, path planning
+            <strong>Research Interests:</strong> Intelligent scheduling; Path planning
         </div>
     </div>
       <div class="teamMember">
-        <img src="/team_images/chenNianRu.jpg" alt="chenNianRu" class="img-zoom">
+        <img src="/team_images/Chenzong Liu.jpg" alt="chenzongliu" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
-            <strong>Nianru Chen</strong>
+            <strong>Chenzhong Liu</strong>
             <strong>Undergraduate</strong>
-            <strong>Research Interests:</strong> Indoor and outdoor integrated navigation
+            <strong>Research Interests:</strong> Intelligent transportation systems and urban data analysis
+        </div>
+    </div>
+      <div class="teamMember">
+        <img src="/team_images/Chenzong Liu.jpg" alt="chenzongliu" class="img-zoom">
+        <div style="margin-top: 15px; text-align: left;">
+            <strong>Chenzhong Liu</strong>
+            <strong>Undergraduate</strong>
+            <strong>Research Interests:</strong> Intelligent transportation systems and urban data analysis
         </div>
     </div>
      <div class="teamMember">
-        <img src="/team_images/wangYiPing.jpg" alt="wangYiPing" class="img-zoom">
+        <img src="/team_images/Jianing Zhao.jpg" alt="zhaojianing" class="img-zoom">
         <div style="margin-top: 15px; text-align: left;">
-            <strong>Yiping Wang</strong>
+            <strong>Jianing Zhao</strong>
             <strong>Undergraduate</strong>
-            <strong>Research Interests:</strong>  UVA path planning
+            <strong>Research Interests:</strong>  Path planning; Data visualization processing; Intelligent transportation research
+        </div>
+    </div>
+    </div>
+     <div class="teamMember">
+        <img src="/team_images/Yichen Wu.jpg" alt="wuyichen" class="img-zoom">
+        <div style="margin-top: 15px; text-align: left;">
+            <strong>Yichen Wu</strong>
+            <strong>Undergraduate</strong>
+            <strong>Research Interests:</strong>  3D modeling and processing in architecture
         </div>
     </div>
 </div>
