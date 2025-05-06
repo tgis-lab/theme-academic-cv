@@ -55,6 +55,12 @@ share: false
             <h2>Journal Papers</h2>
         </div>
         <div class="paper">
+        <p class="nowrap">Lin, Z., Wang, Z., Gong, T., Ma, Y., & Xie, W. (2025). <a href="https : //doi.org/10.3390/ijgi14040147"> Voxel-Based Path Planning for Autonomous Vehicles in Parking Lots</a>. ISPRS International Journal of Geo-Information, 14(4), 147.</p>
+        </div>
+        <div class="paper">
+        <p class="nowrap">Niu, L., Wang, Z., Lin, Z., Zhang, Y., Yan, Y., & He, Z. (2024). <a href="https: //doi.org/10.3390/ijgi13120461">Voxel-Based Navigation: A Systematic Review of Techniques, Applications, and Challenges</a>. ISPRS International Journal of Geo-Information, 13(12), 461.</p>
+        </div>
+        <div class="paper">
         <p class="nowrap">Wang, Z., Ettema, D., & Helbich, M. (2023). <a href="https://doi.org/10.1016/j.cities.2023.104194">Age as effect modifier of the associations between the physical environment and adults' neighborhood walking in the Netherlands</a>.Cities, 135, 104194.</p>
         </div>
         <div class="paper">
